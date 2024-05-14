@@ -1,0 +1,7 @@
+.section-inside {
+  padding: 0.5rem 0;
+}
+
+.section-seperator:not(:last-child) {
+  margin-bottom: 1.4rem;
+}

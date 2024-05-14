@@ -1,0 +1,21 @@
+.contacts {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 1rem;
+  row-gap: 0.5rem;
+  font-size: 1.2rem;
+}
+
+.contact {
+  display: flex;
+  column-gap: 0.5rem;
+  align-items: center;
+}
+
+.contacts a {
+  text-decoration: none;
+}
+
+.icon {
+  width: 14px;
+}

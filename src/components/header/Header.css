@@ -1,0 +1,25 @@
+.header-container {
+  padding: 1rem;
+}
+
+.header {
+  margin: 2rem 4rem;
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+  margin-bottom: 2rem;
+  align-items: center;
+}
+
+.name {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+
+.image-container {
+  text-align: right;
+}
+
+.profile-image {
+  width: 8rem;
+  border-radius: 100%;
+}

@@ -1,0 +1,13 @@
+.item-container {
+  display: flex;
+}
+
+.bullet-point::before {
+  content: "\2022";
+  font-weight: 900;
+  margin-right: 0.6rem;
+}
+
+.item {
+  list-style-type: none;
+}

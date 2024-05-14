@@ -1,0 +1,8 @@
+.skill-list,
+.hobby-list,
+.language-list {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  row-gap: 0.1rem;
+}
